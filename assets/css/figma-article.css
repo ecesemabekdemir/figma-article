@@ -1,0 +1,68 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+.container {
+  width: 330px;
+  margin-top: 74px;
+  margin-left: 24px;
+  margin-right: 24px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.bitmap {
+  width: 327px;
+  top: 74px;
+  left: 24px;
+  padding-bottom: 14px;
+}
+.textContent {
+  padding: 20px;
+}
+
+h3 {
+  width: 263px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: rgba(72, 85, 106, 1);
+  margin-bottom: 12px;
+}
+
+h5 {
+  width: 263px;
+  color: rgba(110, 128, 152, 1);
+  margin-bottom: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.12187500298023224px;
+  text-align: left;
+}
+
+.socialMedia {
+  display: flex;
+  align-items: center;
+  width: 327px;
+  height: 64px;
+  top: 514px;
+  left: 24px;
+  border-radius: 0px 0px 10px 10px;
+  background-color: rgba(72, 85, 106, 1);
+}
+.socialMedia p {
+  margin-left: 32px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  margin-right: 21px;
+  color: rgba(157, 174, 194, 1);
+}
+.socialMedia img {
+  margin-right: 16px;
+}
